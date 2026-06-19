@@ -40,11 +40,9 @@ pip install pygame
 
 ```bash
 git clone https://github.com/elhassan396/Dots-BoxesGame.git
-cd Dots-BoxesGame/Dots&Boxes
+cd Dots-BoxesGame/Dots\&Boxes
 python main.py
 ```
-
-> 
 
 ---
 
@@ -66,17 +64,20 @@ python main.py
 
 ## 🎨 Credits
 
-This project uses third-party assets. Even though they are free and used non-commercially, proper credit is given below:
+This project uses sound assets sourced from the [lichess.org (lila)](https://github.com/lichess-org/lila) open-source project:
 
-Two sound effect sourced from [Freesound.org](https://freesound.org) under a Creative Commons license. Exact attribution not available; will be updated if identified.
-
-| Asset           | Type  | Source        | License       |
-| :-------------- | ----- | ------------- | ------------- |
-| bg_music.mp3    | Sound | Freesound.org | Not available |
-| buttonClick.wav | Sound | Freesound.org | Not available |
+| Asset                      | Author                                                       | License                                                      |
+| -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| `public/sounds/futuristic` | [Enigmahack](https://github.com/Enigmahack)                  | AGPLv3+                                                      |
+| `public/sounds/nes`        | [Enigmahack](https://github.com/Enigmahack)                  | AGPLv3+                                                      |
+| `public/sounds/piano`      | [Enigmahack](https://github.com/Enigmahack)                  | AGPLv3+                                                      |
+| `public/sounds/sfx`        | [Enigmahack](https://github.com/Enigmahack)                  | AGPLv3+                                                      |
+| `public/sounds/lisp`       | [EdinburghCollective](https://lichess.org/@/EdinburghCollective) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the **GNU Affero General Public License v3.0 or later (AGPLv3+)** — see the [LICENSE](LICENSE) file for the full text.
+
+In short: you're free to use, modify, and redistribute this code, including running it as a network service, as long as any modified version (including ones run as a web service) is also made available under the AGPLv3+ and the source code is shared.
