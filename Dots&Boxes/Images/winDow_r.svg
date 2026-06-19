@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" xmlns:bx="https://boxy-svg.com" width="1600px" height="800px">
+  <defs>
+    <linearGradient id="color-0" bx:pinned="true" gradientUnits="userSpaceOnUse">
+      <title>Green</title>
+      <stop style="stop-color: rgb(129, 196, 117);"/>
+    </linearGradient>
+    <linearGradient id="color-1" bx:pinned="true" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, -374.346296, 10.574722)">
+      <title>Red</title>
+      <stop style="stop-color: rgb(255, 255, 255);"/>
+    </linearGradient>
+    <bx:export>
+      <bx:file format="svg" excluded="true"/>
+      <bx:file format="png"/>
+    </bx:export>
+    <filter id="drop-shadow-filter-0" bx:preset="drop-shadow 1 10 10 0 0.5 rgba(0,0,0,0.3)" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="0"/>
+      <feOffset dx="10" dy="10"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(0,0,0,0.3)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="800" style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: url(&quot;#color-1&quot;);"/>
+  <g transform="matrix(-1, 0, 0, -1, 1399.017477, 598.985422)" style="transform-origin: 100.5px 100.5px;"/>
+  <text style="fill: rgb(255, 109, 109); font-family: &quot;CCGothChic Black&quot;; font-size: 96px; white-space: pre;" x="611.587" y="147.674">Red wins</text>
+  <text style="fill: rgb(255, 109, 109); font-family: &quot;CCGothChic Black&quot;; font-size: 68px; white-space: pre; stroke-width: 1;" x="200.343" y="330.992">Red Player</text>
+  <text style="fill: rgb(102, 195, 107); font-family: &quot;CCGothChic Black&quot;; font-size: 68px; white-space: pre; stroke-width: 1;" x="1024.34" y="330.992">Green Player</text>
+  <text style="fill: rgb(154, 154, 154); font-family: &quot;CCGothChic Black&quot;; font-size: 28px; white-space: pre; stroke-width: 1;" x="693.926" y="716.646">Back to game</text>
+  <text style="fill: rgb(103, 159, 181); font-family: &quot;CCGothChic Black&quot;; font-size: 150px; white-space: pre; stroke-width: 1;" x="693.345" y="359.736">Vs</text>
+  <path style="stroke-width: 0; stroke: rgb(251, 0, 90); fill: rgb(251, 0, 90); filter: url(&quot;#drop-shadow-filter-0&quot;);" d="M 613.573 579.695 H 935.11 V 579.695 H 935.11 V 676.157 H 935.11 V 676.157 H 613.573 V 676.157 H 613.573 V 579.695 H 613.573 V 579.695 Z" bx:shape="rect 613.573 579.695 321.537 96.462 3 0 0 2@fb337f07"/>
+  <text style="fill: rgb(255, 255, 255); font-family: &quot;CCGothChic Black&quot;; font-size: 80px; white-space: pre; filter: url(&quot;#drop-shadow-filter-0&quot;);" x="701.397" y="600.779" transform="matrix(0.620125, 0, 0, 0.624129, 190.954455, 274.575688)">Back to Menu</text>
+</svg>

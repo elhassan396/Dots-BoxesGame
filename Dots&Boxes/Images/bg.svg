@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="png" excluded="true"/>
+      <bx:file format="png" path="Untitled 2.png" excluded="true"/>
+      <bx:file format="png" path="Untitled 3.png"/>
+    </bx:export>
+    <filter id="drop-shadow-filter-0" bx:preset="drop-shadow 1 10 10 0 0.5 rgba(0,0,0,0.3)" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="0"/>
+      <feOffset dx="10" dy="10"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(0,0,0,0.3)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="800" style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(255, 255, 255);"/>
+  <g>
+    <line style="stroke: gray;" x1="50" y1="0" x2="50" y2="800"/>
+    <line style="stroke: gray;" x1="100" y1="0" x2="100" y2="800"/>
+    <line style="stroke: gray;" x1="150" y1="0" x2="150" y2="800"/>
+    <line style="stroke: gray;" x1="200" y1="0" x2="200" y2="800"/>
+    <line style="stroke: gray;" x1="250" y1="0" x2="250" y2="800"/>
+    <line style="stroke: gray;" x1="300" y1="0" x2="300" y2="800"/>
+    <line style="stroke: gray;" x1="350" y1="0" x2="350" y2="800"/>
+    <line style="stroke: gray;" x1="400" y1="0" x2="400" y2="800"/>
+    <line style="stroke: gray;" x1="450" y1="0" x2="450" y2="800"/>
+    <line style="stroke: gray;" x1="500" y1="0" x2="500" y2="800"/>
+    <line style="stroke: gray;" x1="550" y1="0" x2="550" y2="800"/>
+    <line style="stroke: gray;" x1="600" y1="0" x2="600" y2="800"/>
+    <line style="stroke: gray;" x1="650" y1="0" x2="650" y2="800"/>
+    <line style="stroke: gray;" x1="700" y1="0" x2="700" y2="800"/>
+    <line style="stroke: gray;" x1="750" y1="0" x2="750" y2="800"/>
+    <line style="stroke: gray;" x1="800" y1="0" x2="800" y2="800"/>
+    <line style="stroke: gray;" x1="849.999" y1="0" x2="849.999" y2="800"/>
+    <line style="stroke: gray;" x1="900" y1="0" x2="900" y2="800"/>
+    <line style="stroke: gray;" x1="950" y1="0" x2="950" y2="800"/>
+    <line style="stroke: gray;" x1="1000" y1="0" x2="1000" y2="800"/>
+    <line style="stroke: gray;" x1="1050" y1="0" x2="1050" y2="800"/>
+    <line style="stroke: gray;" x1="1100" y1="0" x2="1100" y2="800"/>
+    <line style="stroke: gray;" x1="1150" y1="0" x2="1150" y2="800"/>
+    <line style="stroke: gray;" x1="1200" y1="0" x2="1200" y2="800"/>
+    <line style="stroke: gray;" x1="1250" y1="0" x2="1250" y2="800"/>
+    <line style="stroke: gray;" x1="1300" y1="0" x2="1300" y2="800"/>
+    <line style="stroke: gray;" x1="1350" y1="0" x2="1350" y2="800"/>
+    <line style="stroke: gray;" x1="1400" y1="0" x2="1400" y2="800"/>
+    <line style="stroke: gray;" x1="1450" y1="0" x2="1450" y2="800"/>
+    <line style="stroke: gray;" x1="1500" y1="0" x2="1500" y2="800"/>
+    <line style="stroke: gray;" x1="1550" y1="0" x2="1550" y2="800"/>
+    <line style="stroke: gray;" x1="0" y1="50" x2="1600" y2="50"/>
+    <line style="stroke: gray;" x1="0" y1="100" x2="1600" y2="100"/>
+    <line style="stroke: gray;" x1="0" y1="150" x2="1600" y2="150"/>
+    <line style="stroke: gray;" x1="0" y1="200" x2="1600" y2="200"/>
+    <line style="stroke: gray;" x1="0" y1="250" x2="1600" y2="250"/>
+    <line style="stroke: gray;" x1="0" y1="300" x2="1600" y2="300"/>
+    <line style="stroke: gray;" x1="0" y1="350" x2="1600" y2="350"/>
+    <line style="stroke: gray;" x1="0" y1="400" x2="1600" y2="400"/>
+    <line style="stroke: gray;" x1="0" y1="450" x2="1600" y2="450"/>
+    <line style="stroke: gray;" x1="0" y1="500" x2="1600" y2="500"/>
+    <line style="stroke: gray;" x1="0" y1="550" x2="1600" y2="550"/>
+    <line style="stroke: gray;" x1="0" y1="600" x2="1600" y2="600"/>
+    <line style="stroke: gray;" x1="0" y1="650" x2="1600" y2="650"/>
+    <line style="stroke: gray;" x1="0" y1="700" x2="1600" y2="700"/>
+    <line style="stroke: gray;" x1="0" y1="750" x2="1600" y2="750"/>
+  </g>
+  <text style="fill: rgb(134, 71, 210); font-family: &quot;CCGothChic Black&quot;; font-size: 141px; stroke: rgb(103, 51, 113); stroke-width: 0px; white-space: pre;" y="167.552" x="594.865">Squary</text>
+  <g>
+    <g>
+      <g transform="matrix(1, 0, 0, 1, 0.000005, 0.000006)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 50.000008, 50.000008)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 100.000001, 100.000001)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 150.000002, 150.000002)" style="">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -259.75626, 366.426458)">
+      <g transform="matrix(0.000001, 1, -1, 0.000001, 409.756293, 233.573597)" style="transform-origin: 25px 25px;">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(0.000001, 1, -1, 0.000001, 359.756292, 283.573582)" style="transform-origin: 25px 25px;">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(0.000001, 1, -1, 0.000001, 309.756291, 333.573583)" style="transform-origin: 25px 25px;">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(0.000001, 1, -1, 0.000001, 259.75629, 383.573584)" style="transform-origin: 25px 25px;">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(-1, 0, 0, 1, 1431.437765, 152.44678)" style="">
+      <g transform="matrix(1, 0, 0, 1, 1181.437762, 47.553216)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1231.437762, 97.553216)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1181.437762, 147.553194)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(-1, 0, 0, 1, 1431.437765, 402.446783)" style="">
+      <g transform="matrix(1, 0, 0, 1, 1181.437762, 47.553216)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1231.437762, 97.553216)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1181.437762, 147.553194)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+    </g>
+    <rect x="317.677" y="203.737" width="100" height="50" style="stroke-width: 3px; fill: none; transform-box: fill-box; transform-origin: 50% 50%; stroke: rgb(134, 71, 210);" transform="matrix(0, 1, -1, 0, -92.677025, 171.26299)"/>
+  </g>
+  <g>
+    <g transform="matrix(-1, 0, 0, 1, 1731.43777, 2.446786)" style="">
+      <g transform="matrix(1, 0, 0, 1, 1181.437762, 47.553216)">
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3px;" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3;" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px;" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px;" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1231.437762, 97.553216)">
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3px;" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3;" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px;" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px;" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1181.437762, 147.553194)">
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3px;" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3;" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px;" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px;" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <rect width="50" height="50" style="fill: rgb(134, 71, 210); stroke-width: 3px; stroke: rgb(134, 71, 210);" x="508.897" y="39.688"/>
+      <rect width="50" height="50" style="fill: rgb(134, 71, 210); stroke-width: 3; stroke: rgb(134, 71, 210);" y="89.688" x="458.897"/>
+      <rect width="50" height="50" style="fill: rgb(134, 71, 210); stroke-width: 3; stroke: rgb(134, 71, 210);" y="139.688" x="508.897"/>
+    </g>
+  </g>
+  <g style="" transform="matrix(1, 0, 0, -1, 0, 400.000006)">
+    <g transform="matrix(1, 0, 0, 1, 700.00001, 100.000001)">
+      <line style="stroke: rgb(134, 71, 210); stroke-width: 3px; fill: rgb(235, 24, 24);" x1="0" y1="0" x2="50" y2="0"/>
+      <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(235, 24, 24);" x1="0" y1="0" x2="0" y2="50"/>
+      <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px; fill: rgb(235, 24, 24);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px; fill: rgb(235, 24, 24);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 750.000011, 50.000001)">
+      <line style="stroke: rgb(134, 71, 210); stroke-width: 3px; fill: rgb(235, 24, 24);" x1="0" y1="0" x2="50" y2="0"/>
+      <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(235, 24, 24);" x1="0" y1="0" x2="0" y2="50"/>
+      <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px; fill: rgb(235, 24, 24);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px; fill: rgb(235, 24, 24);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 800.000012, 50.000001)">
+      <line style="stroke: rgb(134, 71, 210); stroke-width: 3px; fill: rgb(235, 24, 24);" x1="0" y1="0" x2="50" y2="0"/>
+      <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(235, 24, 24);" x1="0" y1="0" x2="0" y2="50"/>
+      <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px; fill: rgb(235, 24, 24);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px; fill: rgb(235, 24, 24);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 850.000013, 100.000001)">
+      <line style="stroke: rgb(134, 71, 210); stroke-width: 3px; fill: rgb(210, 78, 78);" x1="0" y1="0" x2="50" y2="0"/>
+      <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(210, 78, 78);" x1="0" y1="0" x2="0" y2="50"/>
+      <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px; fill: rgb(210, 78, 78);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px; fill: rgb(210, 78, 78);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+      </g>
+    </g>
+  </g>
+  <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(235, 24, 24);" x1="700" y1="350" x2="750" y2="350"/>
+  <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(235, 24, 24);" x1="700" y1="350" x2="700" y2="400"/>
+  <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px; fill: rgb(235, 24, 24);" x1="750" y1="400" x2="700" y2="400"/>
+  <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px; fill: rgb(235, 24, 24);" x1="750" y1="400.001" x2="750" y2="350"/>
+  <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(235, 24, 24);" x1="750" y1="300" x2="800" y2="300"/>
+  <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(235, 24, 24);" x1="750" y1="300" x2="750" y2="350"/>
+  <g transform="matrix(1, 0, 0, 1, 644.805002, 220.685001)">
+    <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px; fill: rgb(235, 24, 24);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+    <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px; fill: rgb(235, 24, 24);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+  </g>
+  <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(235, 24, 24);" x1="800" y1="300" x2="850" y2="300"/>
+  <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(235, 24, 24);" x1="800" y1="300" x2="800" y2="350"/>
+  <g transform="matrix(1, 0, 0, 1, 694.805003, 220.685001)">
+    <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px; fill: rgb(235, 24, 24);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+    <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px; fill: rgb(235, 24, 24);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+  </g>
+  <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(235, 24, 24);" x1="850" y1="350" x2="900" y2="350"/>
+  <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(235, 24, 24);" x1="850" y1="350" x2="850" y2="400"/>
+  <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px; fill: rgb(235, 24, 24);" x1="900" y1="400" x2="850" y2="400"/>
+  <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px; fill: rgb(235, 24, 24);" x1="900" y1="400.001" x2="900" y2="350"/>
+  <rect x="756.202" y="442.559" width="100" height="50" style="stroke-width: 3; stroke: rgb(134, 71, 210); fill: none;"/>
+  <path style="stroke: rgb(134, 71, 210); fill: rgb(251, 0, 90); stroke-width: 0px; filter: url(&quot;#drop-shadow-filter-0&quot;);" d="M 700 550 H 900 V 550 H 900 V 650 H 900 V 650 H 700 V 650 H 700 V 550 H 700 V 550 Z" bx:shape="rect 700 550 200 100 3 0 0 2@aa7cebb6"/>
+  <text style="fill: rgb(255, 255, 255); font-family: &quot;CCGothChic Black&quot;; font-size: 64px; white-space: pre;" x="729.043" y="623.484">Start</text>
+  <g transform="matrix(-1, 0, 0, 1, 1600.000024, -0.000003)" style="">
+    <g>
+      <g transform="matrix(1, 0, 0, 1, 0.000005, 0.000006)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 50.000008, 50.000008)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 100.000001, 100.000001)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 150.000002, 150.000002)" style="">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -259.75626, 366.426458)">
+      <g transform="matrix(0.000001, 1, -1, 0.000001, 409.756293, 233.573597)" style="transform-origin: 25px 25px;">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(0.000001, 1, -1, 0.000001, 359.756292, 283.573582)" style="transform-origin: 25px 25px;">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(0.000001, 1, -1, 0.000001, 309.756291, 333.573583)" style="transform-origin: 25px 25px;">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(0.000001, 1, -1, 0.000001, 259.75629, 383.573584)" style="transform-origin: 25px 25px;">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(-1, 0, 0, 1, 1431.437765, 152.44678)" style="">
+      <g transform="matrix(1, 0, 0, 1, 1181.437762, 47.553216)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1231.437762, 97.553216)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1181.437762, 147.553194)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(-1, 0, 0, 1, 1431.437765, 402.446783)" style="">
+      <g transform="matrix(1, 0, 0, 1, 1181.437762, 47.553216)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1231.437762, 97.553216)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1181.437762, 147.553194)">
+        <line style="stroke-width: 3px; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke-width: 3; stroke: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke-width: 3; transform-origin: 130.195px 129.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke-width: 3; transform-origin: 155.195px 104.315px; stroke: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+    </g>
+    <rect x="317.677" y="203.737" width="100" height="50" style="stroke-width: 3px; fill: none; transform-box: fill-box; transform-origin: 50% 50%; stroke: rgb(134, 71, 210);" transform="matrix(0, 1, -1, 0, -92.677025, 171.26299)"/>
+  </g>
+  <g transform="matrix(0.805538, 0.056329, -0.050866, 0.727406, -1.409596, 5.585588)" style="transform-origin: 878.449px 462.725px;">
+    <rect x="1110.72" y="112.268" width="30" height="4" style="stroke: rgb(0, 0, 0); stroke-width: 0px; transform-box: fill-box; transform-origin: 50% 50%; fill: rgb(134, 71, 210);" transform="matrix(0.754709, 0.65606, -0.65606, 0.754709, -247.271103, 348.456772)" rx="2" ry="2"/>
+  </g>
+  <rect x="860.55" y="85.323" width="23.243" height="3.04" style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(134, 71, 210); transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(-0.741613, 0.670828, 0.745885, 0.67372, 4.847089, 395.330773)" rx="2" ry="2"/>
+  <g transform="matrix(-0.805538, 0.056329, 0.050866, 0.727406, -155.65993, 5.543013)" style="transform-origin: 878.449px 462.725px;">
+    <rect x="1110.72" y="112.268" width="30" height="4" style="stroke: rgb(0, 0, 0); stroke-width: 0px; transform-box: fill-box; transform-origin: 50% 50%; fill: rgb(134, 71, 210);" transform="matrix(0.754709, 0.65606, -0.65606, 0.754709, -247.271103, 348.456772)" rx="2" ry="2"/>
+  </g>
+  <rect x="-860.55" y="-85.323" width="23.243" height="3.04" style="stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(134, 71, 210); transform-origin: -848.929px -83.803px;" transform="matrix(0.741613, 0.670828, -0.745885, 0.67372, 1571.741543, 565.935591)" rx="2" ry="2"/>
+  <g transform="matrix(-1, 0, 0, 1, 1598.896996, 0.312)" style="">
+    <g transform="matrix(-1, 0, 0, 1, 1731.43777, 2.446786)" style="">
+      <g transform="matrix(1, 0, 0, 1, 1181.437762, 47.553216)">
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3px; fill: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px; fill: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px; fill: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1231.437762, 97.553216)">
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3px; fill: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px; fill: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px; fill: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1181.437762, 147.553194)">
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3px; fill: rgb(134, 71, 210);" x1="0" y1="0" x2="50" y2="0"/>
+        <line style="stroke: rgb(134, 71, 210); stroke-width: 3; fill: rgb(134, 71, 210);" x1="0" y1="0" x2="0" y2="50"/>
+        <g transform="matrix(1, 0, 0, 1, -105.195001, -79.315004)">
+          <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 130.195px 129.315px; fill: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="105.195" y2="129.315"/>
+          <line style="stroke: rgb(134, 71, 210); stroke-width: 3; transform-origin: 155.195px 104.315px; fill: rgb(134, 71, 210);" x1="155.195" y1="129.315" x2="155.195" y2="79.315"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <rect width="50" height="50" style="stroke-width: 3px; stroke: rgb(134, 71, 210); fill: rgb(134, 71, 210);" x="508.897" y="39.688"/>
+      <rect width="50" height="50" style="stroke-width: 3; stroke: rgb(134, 71, 210); fill: rgb(134, 71, 210);" y="89.688" x="458.897"/>
+      <rect width="50" height="50" style="stroke-width: 3; stroke: rgb(134, 71, 210); fill: rgb(134, 71, 210);" y="139.688" x="508.897"/>
+    </g>
+  </g>
+  <rect width="100" height="50" style="stroke-width: 3px; fill: rgb(134, 71, 210); stroke: rgb(134, 71, 210);" x="750" y="450"/>
+</svg>

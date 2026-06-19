@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <filter id="drop-shadow-filter-0" bx:preset="drop-shadow 1 10 10 0 0.5 rgba(0,0,0,0.3)" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="0"/>
+      <feOffset dx="10" dy="10"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(0,0,0,0.3)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="drop-shadow-filter-1" bx:preset="drop-shadow 1 10 10 0 0.5 rgba(0,0,0,0.3)" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="0"/>
+      <feOffset dx="10" dy="10"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl-2" type="linear" slope="1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(0,0,0,0.3)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="drop-shadow-filter-2" bx:preset="drop-shadow 1 10 10 0 0.5 rgba(0,0,0,0.3)" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="0"/>
+      <feOffset dx="10" dy="10"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl-2" type="linear" slope="1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(0,0,0,0.3)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <bx:export>
+      <bx:file format="png"/>
+    </bx:export>
+  </defs>
+  <rect width="1600" height="800" style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 0px;"/>
+  <rect x="100" y="100" width="800" height="600" style="fill: rgb(255, 255, 255); stroke: rgb(134, 71, 210); filter: url(&quot;#drop-shadow-filter-1&quot;); stroke-width: 5px;"/>
+  <rect x="920" y="100" width="660" height="300" style="fill: rgb(255, 255, 255); stroke: rgb(134, 71, 210); stroke-width: 3px; filter: url(&quot;#drop-shadow-filter-2&quot;);"/>
+  <g transform="matrix(1, 0, 0, 1, 6.89389, 2.144821)">
+    <text style="fill: rgb(133, 131, 131); font-family: &quot;CCGothChic Black&quot;; font-size: 35px; white-space: pre;" x="1118.76" y="669.536">Enter to confirm</text>
+    <text style="fill: rgb(130, 128, 128); font-family: &quot;CCGothChic Black&quot;; font-size: 35px; white-space: pre;" x="1054.37" y="620.203">'m' to change the position</text>
+    <text style="fill: rgb(130, 128, 128); font-family: &quot;CCGothChic Black&quot;; font-size: 35px; white-space: pre;" x="1000.56" y="571.255">Use the mouse to select a square</text>
+    <text style="fill: rgb(134, 71, 210); font-family: &quot;CCGothChic Black&quot;; font-size: 71px; white-space: pre;" x="1070.44" y="497.611">how to play</text>
+  </g>
+  <rect x="15" y="15" width="120" height="70" style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(251, 0, 90); filter: url(&quot;#drop-shadow-filter-0&quot;);"/>
+  <text style="fill: rgb(255, 255, 255); font-family: &quot;CCGothChic Black&quot;; font-size: 37px; white-space: pre;" x="29.525" y="63.536">Menu</text>
+</svg>

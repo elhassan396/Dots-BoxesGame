@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" xmlns:bx="https://boxy-svg.com" width="1600px" height="800px">
+  <defs>
+    <linearGradient id="color-1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, -374.341995, 10.575104)">
+      <title>Red</title>
+      <stop style="stop-color: rgb(255, 255, 255);"/>
+    </linearGradient>
+    <bx:export>
+      <bx:file format="svg" excluded="true"/>
+      <bx:file format="svg" path="Untitled 2.svg" excluded="true"/>
+      <bx:file format="png" excluded="true"/>
+      <bx:file format="png" href="#object-0" path="Untitled 2.png" excluded="true"/>
+      <bx:file format="png" path="Untitled 3.png"/>
+    </bx:export>
+    <filter id="drop-shadow-filter-0" bx:preset="drop-shadow 1 10 10 0 0.5 rgba(0,0,0,0.3)" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="0"/>
+      <feOffset dx="10" dy="10"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(0,0,0,0.3)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="800" style="stroke: rgb(0, 0, 0); stroke-width: 0; fill: url(&quot;#color-1&quot;);"/>
+  <g transform="matrix(-1.000003, 0, 0, -1, 1251.751117, 657.164683)" style="transform-origin: 100.5px 100.5px;"/>
+  <text style="fill: rgb(151, 123, 195); font-family: &quot;CCGothChic Black&quot;; font-size: 185.5px; white-space: pre;" x="597.354" y="337.951" id="object-0">Draw</text>
+  <text style="fill: rgb(154, 154, 154); font-family: &quot;CCGothChic Black&quot;; font-size: 28px; white-space: pre; stroke-width: 1;" x="719.585" y="716.651">Back to game</text>
+  <path style="stroke-width: 0; stroke: rgb(251, 0, 90); fill: rgb(251, 0, 90); filter: url(&quot;#drop-shadow-filter-0&quot;);" d="M 639.232 579.7 H 960.769 V 579.7 H 960.769 V 676.162 H 960.769 V 676.162 H 639.232 V 676.162 H 639.232 V 579.7 H 639.232 V 579.7 Z" bx:shape="rect 639.232 579.7 321.537 96.462 3 0 0 2@af783642"/>
+  <text style="fill: rgb(255, 255, 255); font-family: &quot;CCGothChic Black&quot;; font-size: 80px; white-space: pre; filter: url(&quot;#drop-shadow-filter-0&quot;);" x="701.397" y="600.779" transform="matrix(0.620125, 0, 0, 0.624129, 216.612552, 274.580723)">Back to Menu</text>
+</svg>

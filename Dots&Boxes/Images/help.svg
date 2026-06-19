@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <filter id="drop-shadow-filter-0" bx:preset="drop-shadow 1 10 10 0 0.5 rgba(0,0,0,0.3)" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="0"/>
+      <feOffset dx="10" dy="10"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(0,0,0,0.3)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <bx:export>
+      <bx:file format="png" excluded="true"/>
+      <bx:file format="png" path="Untitled 2.png"/>
+    </bx:export>
+  </defs>
+  <rect x="621.919" y="77" width="915" height="431" style="fill: rgb(255, 255, 255); stroke-width: 2px; stroke: rgb(108, 10, 247); filter: url(&quot;#drop-shadow-filter-0&quot;);"/>
+  <text style="fill: rgb(46, 0, 234); font-family: &quot;CCGothChic Black&quot;; font-size: 57px; white-space: pre;" x="816.276" y="177.619">Dots and Boxes Rules</text>
+  <text style="fill: rgb(139, 139, 139); font-family: &quot;CCGothChic Black&quot;; font-size: 34px; text-anchor: middle; white-space: pre;" transform="matrix(1, 0, 0, 1, 360.328924, 34.47036)"><tspan x="719.09" y="223.579">It's a two-player game. On each turn, a player draws a line</tspan><tspan x="719.0900268554688" dy="1em">​</tspan><tspan> between two adjacent dots. If a player completes the fourth</tspan><tspan x="719.0900268554688" dy="1em">​</tspan><tspan> side of a square, they claim it and take another turn. A player </tspan><tspan x="719.0900268554688" dy="1em">​</tspan><tspan>should also think strategically about blocking their opponent </tspan><tspan x="719.0900268554688" dy="1em">​</tspan><tspan>from completing squares. The player who claims </tspan><tspan x="719.0900268554688" dy="1em">​</tspan><tspan>the most squares wins.</tspan></text>
+</svg>
