@@ -1,6 +1,6 @@
 # 🎮 Dots & Boxes
 
-> The classic Dots & Boxes game — built with Python and pygame. Nothing fancy, took me about four days to complete.
+> The classic Dots & Boxes game — built with Python and pygame.
 
 ---
 
