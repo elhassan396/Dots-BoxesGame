@@ -19,7 +19,7 @@ This is my Python/pygame implementation of that game, built from scratch as a pe
 - Sound effects on line placement and box completion
 - Score tracking displayed in real time
 - Grid size selection
-- ...
+
 
 ---
 
