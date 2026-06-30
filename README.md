@@ -1,10 +1,10 @@
-# 🎮 Dots & Boxes
+#  Dots & Boxes
 
 > The classic Dots & Boxes game — built with Python and pygame.
 
 ---
 
-## 📖 About
+##  About
 
 Dots & Boxes is a classic pencil-and-paper game for two players. Starting from an empty grid of dots, players take turns drawing a single horizontal or vertical line between two adjacent dots. The player who completes the fourth side of a box claims it and earns another turn. The player with the most boxes when the grid is full wins.
 
@@ -12,7 +12,7 @@ This is my Python/pygame implementation of that game, built from scratch as a pe
 
 ---
 
-## ✨ Features
+##  Features
 
 - 2-player local gameplay
 - Clean grid-based UI rendered with pygame
@@ -23,7 +23,7 @@ This is my Python/pygame implementation of that game, built from scratch as a pe
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -55,14 +55,14 @@ python main.py
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - [Python 3](https://www.python.org/)
 - [pygame](https://www.pygame.org/)
 
 ---
 
-## 🎨 Credits
+##  Credits
 
 This project uses sound assets sourced from the [lichess.org (lila)](https://github.com/lichess-org/lila) open-source project:
 
@@ -76,7 +76,7 @@ This project uses sound assets sourced from the [lichess.org (lila)](https://git
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **GNU Affero General Public License v3.0 or later (AGPLv3+)** — see the [LICENSE](LICENSE) file for the full text.
 
