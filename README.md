@@ -1,3 +1,7 @@
+# ***This small project is dedicated to a wish that never came true...***
+
+
+
 #  Dots & Boxes
 
 > The classic Dots & Boxes game — built with Python and pygame.
